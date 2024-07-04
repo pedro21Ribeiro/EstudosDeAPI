@@ -1,0 +1,23 @@
+{
+  "name": "estudoapi",
+  "version": "0.0.1",
+  "description": "Estudando como se cria uma API usando Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro21Ribeiro/EstudosDeAPI.git"
+  },
+  "author": "Pedro Silva Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro21Ribeiro/EstudosDeAPI/issues"
+  },
+  "homepage": "https://github.com/pedro21Ribeiro/EstudosDeAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
